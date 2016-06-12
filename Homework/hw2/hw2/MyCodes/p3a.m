@@ -1,0 +1,6 @@
+mean0 = mean(Xtr(find(Ytr==0),:))
+cov0 = cov(Xtr(find(Ytr==0),:))
+mean1 = mean(Xtr(find(Ytr==1),:))
+cov1 = cov(Xtr(find(Ytr==1),:))
+mean2 = mean(Xtr(find(Ytr==2),:))
+cov2 = cov(Xtr(find(Ytr==2),:))

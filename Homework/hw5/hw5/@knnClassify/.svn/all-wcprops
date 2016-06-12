@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/mltools/!svn/ver/5/@knnClassify
+END
+train.m
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/mltools/!svn/ver/11/@knnClassify/train.m
+END
+getClasses.m
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/mltools/!svn/ver/11/@knnClassify/getClasses.m
+END
+confusion.m
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/mltools/!svn/ver/5/@knnClassify/confusion.m
+END
+roc.m
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/mltools/!svn/ver/12/@knnClassify/roc.m
+END
+knnClassify.m
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/mltools/!svn/ver/5/@knnClassify/knnClassify.m
+END
+display.m
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/mltools/!svn/ver/12/@knnClassify/display.m
+END
+setK.m
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/mltools/!svn/ver/4/@knnClassify/setK.m
+END
+predictSoft.m
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/mltools/!svn/ver/11/@knnClassify/predictSoft.m
+END
+err.m
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/mltools/!svn/ver/11/@knnClassify/err.m
+END
+auc.m
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/mltools/!svn/ver/11/@knnClassify/auc.m
+END
+setClasses.m
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/mltools/!svn/ver/11/@knnClassify/setClasses.m
+END
+predict.m
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/mltools/!svn/ver/5/@knnClassify/predict.m
+END
